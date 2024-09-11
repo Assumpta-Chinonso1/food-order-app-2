@@ -15,6 +15,7 @@ a{
 .app{
   width: 80%;
   margin: auto;
+  padding: auto;
 }
 
 @keyframes fadeIn{

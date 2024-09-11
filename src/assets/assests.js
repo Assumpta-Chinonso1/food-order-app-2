@@ -49,10 +49,10 @@ export const menu_list = [
     menu_image: menu7
   }, {
     menu_name: "Ramen",
-    menu_image: menu6
+    menu_image: menu8
   }, {
     menu_name: "Oha soup and Poundo",
-    menu_image: menu6
+    menu_image: menu9
   }
 
 
