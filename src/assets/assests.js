@@ -11,6 +11,9 @@ import menu3 from './menu 3.png'
 import menu4 from './menu 4.png'
 import menu5 from './menu 5.png'
 import menu6 from './menu 6.png'
+import menu7 from './menu 7.png'
+import menu8 from './menu 8.png'
+import menu9 from './menu 9.png'
 
 
 
@@ -40,6 +43,15 @@ export const menu_list = [
     menu_image: menu5
   }, {
     menu_name: "SeaOkra soup",
+    menu_image: menu6
+  }, {
+    menu_name: "efiro soup",
+    menu_image: menu7
+  }, {
+    menu_name: "Ramen",
+    menu_image: menu6
+  }, {
+    menu_name: "Oha soup and Poundo",
     menu_image: menu6
   }
 
