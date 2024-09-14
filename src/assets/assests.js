@@ -11,22 +11,23 @@ import menu6 from './menu 6.png'
 import menu7 from './menu 7.png'
 import menu8 from './menu 8.png'
 import menu9 from './menu 9.png'
-import jollof from './jollof 2.jpg'
-import jollof2 from './jollof.jpg'
-import meatpie from './meatpie.jpg'
-import okra from './okra.jpg'
-import ramen from './ramen 1.jpg'
-import Rolls from './Rolls.jpg'
-import spag from './spaghetti.jpg'
-import white from './white 3.jpg'
-import white2 from './whitesoup.jpg'
-import white3 from './whiteSoup2.jpg'
-import oha from './oha 2.jpg'
-import efori from './efori 2.jpg'
+import jollof from './jollof 2.png'
+import jollof2 from './jollof.png'
+import meatpie from './meatpie.png'
+import okra from './okra.png'
+import ramen from './ramen 1.png'
+import Rolls from './Rolls.png'
+import spag from './spaghetti.png'
+import white from './white 3.png'
+import white2 from './whitesoup.png'
+import white3 from './whiteSoup2.png'
+import oha from './oha 2.png'
+import efori from './efori 2.png'
 import egwusi from './egwusi.jpg'
-import cake from './cake.jpg'
-import cusine from './cusine.jpg'
-import cosot from './cosot.jpg'
+import cake from './cake.png'
+import cusine from './cusine.png'
+import cosot from './cosot.png'
+import star from './star 3.png'
 
 
 
@@ -34,7 +35,8 @@ import cosot from './cosot.jpg'
 export const assests = {
   logo,         
   search,
-  basket
+  basket,
+  star
   
 };
 
