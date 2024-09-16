@@ -28,6 +28,9 @@ import cake from './cake.png'
 import cusine from './cusine.png'
 import cosot from './cosot.png'
 import star from './star 3.png'
+import add from './add_icon.png'
+import remove from './remove _.png'
+import add2 from './add 2.png'
 
 
 
@@ -36,7 +39,10 @@ export const assests = {
   logo,         
   search,
   basket,
-  star
+  star,
+  add,
+  remove,
+  add2
   
 };
 
